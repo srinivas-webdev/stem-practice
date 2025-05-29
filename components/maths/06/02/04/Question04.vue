@@ -9,7 +9,7 @@ const qstnDetails = {
     `,
   },
   isSolutionSingle: true,
-  solution: [3],
+  solution: [0],
   userChoices: {
     "content-type": "normal",
     displayedChoices: [

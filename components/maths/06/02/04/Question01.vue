@@ -34,6 +34,7 @@ const qstnDetails = {
 .figurines {
   display: flex;
   max-width: 100%;
+  flex-wrap: wrap;
   padding: 0;
   margin: 0;
 

@@ -13,7 +13,7 @@
       >
     </picture>
     <div class="header-text-container">
-      <h1>STEM Practicing  For Fun</h1>
+      <h1>Math Practicing is Fun</h1>
     </div>
   </header>
 </template>

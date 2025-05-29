@@ -8,15 +8,15 @@ const qstnDetails = {
       are possible?`,
   },
   isSolutionSingle: true,
-  solution: [3],
+  solution: [1],
   userChoices: {
     "content-type": "normal",
     displayedChoices: [
-      "4",  
+      "4",
+      "6",
       "8",
-      "18",
-      "24",
-      "40"
+      "10",
+      "20"
     ],
   }
 }
@@ -26,7 +26,7 @@ const qstnDetails = {
   <BaseMCQ :qstn-details="qstnDetails">
     <template #bgimages>
       <menu class="figurines">
-        <img src="~/assets/maths/06/01/03/prism.png" alt="prism"  height="200">
+        <img src="~/assets/maths/06/01/03/prism.png" alt="prism" height="200">
       </menu>
     </template>
   </BaseMCQ>
