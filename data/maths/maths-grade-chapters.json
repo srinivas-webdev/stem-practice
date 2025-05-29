@@ -1,0 +1,50 @@
+[
+  {
+    "id": "06",
+    "desc": "6th Grade",
+    "chapters": [
+      "Numerical Expressions and Factors",
+      "Fractions and Decimals",
+      "Ratios and Rates",
+      "Percents",
+      "Algebraic Expressions and Properties",
+      "Equations",
+      "Area, Surface Area and Volume",
+      "Integers, Number Lines and the Coordinate Plane",
+      "Statistical Measures",
+      "Data Displays"
+    ]
+  },
+  {
+    "id": "07",
+    "desc": "7th Grade",
+    "chapters": [
+      "Adding and Subtracting Rational Numbers",
+      "Multiplying and Dividing Rational Numbers",
+      "Expressions",
+      "Equations and Inequalities",
+      "Ratios and Proportions",
+      "Percents",
+      "Probability",
+      "Statistics",
+      "Geometric Shapes and Angles",
+      "Surface Area and Volume"
+    ]
+  },
+  {
+    "id": "08",
+    "desc": "8th Grade",
+    "chapters": [
+      "Equations",
+      "Transformations",
+      "Angles and Triangles",
+      "Graphing and Writing Linear Equations",
+      "Systems of Linear Equations",
+      "Data Analysis and Displays",
+      "Functions",
+      "Exponents and Scientific Notation",
+      "Real Numbers and the Pythagorean Theorem",
+      "Volume and Similar Solids"
+    ]
+  }
+]

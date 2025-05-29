@@ -1,0 +1,17 @@
+[
+  {
+    "name": "maths",
+    "heading": "Let's have fun with Maths",
+    "description": "Learn the fundamentals of Maths with Real Life Modeling exercises."
+  },
+  {
+    "name": "science",
+    "heading": "Deep Dive with Science",
+    "description": "Understand Science from the inside out through the practice."
+  },
+  {
+    "name": "english",
+    "heading": "Enjoy With English",
+    "description": "Solidify the nuances in English."
+  }
+]

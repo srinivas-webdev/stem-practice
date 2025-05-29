@@ -1,0 +1,265 @@
+[
+  {
+    "chapter_id": 1,
+    "chapter_desc": "Numerical Expressions and Facts",
+    "learning_target": "Understand factors.",
+    "success_criteria": [
+      "I can identify factors of a number.",
+      "I can explain order of operations.",
+      "I can solve a problem using factors.",
+      "I can model different types of multiples of numbers."
+    ],
+    "vocabulary": [
+      "exponent",
+      "numerical expression",
+      "order of operations",
+      "common factors",
+      "greatest common factor",
+      "common multiples",
+      "least common multiple"
+    ],
+    "sections": [
+      {
+        "section_desc": "Powers and Exponents",
+        "learning_target": "Write and evaluate expressions involving exponents.",
+        "success_criteria": [
+          "I can write products of repeated factors as powers.",
+          "I can evaluate powers."
+        ],
+        "vocabulary": [
+          "power",
+          "base",
+          "exponent",
+          "perfect square"
+        ],
+        "questions": 9
+      },
+      {
+        "section_desc": "Order of Operations",
+        "learning_target": "Write and evaluate numerical expressions using the order of operations.",
+        "success_criteria": [
+          "I can explain why there is a need for a standard order of operations.",
+          "I can evaluate numerical expressions involving several operations, exponents, and grouping symbols.",
+          "I can write numerical expressions involving exponents to represent a real-life problem."
+        ],
+        "vocabulary": [
+          "numerical expression",
+          "evaluate",
+          "order of operations"
+        ],
+        "questions": 12
+      },
+      {
+        "section_desc": "Prime Factorization",
+        "learning_target": "Write a number as a product of prime factors and represent the product using exponents.",
+        "success_criteria": [
+          "I can find factor pairs of a number.",
+          "I can explain the meanings of prime and composite numbers.",
+          "I can create a factor tree to find the prime factors of a number.",
+          "I can write the prime factorization of a number."
+        ],
+        "vocabulary": [
+          "factor pair",
+          "prime factorization",
+          "factor tree"
+        ],
+        "questions": 10
+      },
+      {
+        "section_desc": "Greatest Common Factor",
+        "learning_target": "Find the greatest common factor of two numbers.",
+        "success_criteria": [
+          "I can explain the meaning of factors of a number.",
+          "I can use lists of factors to identify the greatest common factor of numbers.",
+          "I can use prime factors to identify the greatest common factor of numbers."
+        ],
+        "vocabulary": [
+          "Venn diagram",
+          "numerical expression",
+          "common factors",
+          "greatest common factor"
+        ],
+        "questions": 13
+      },
+      {
+        "section_desc": "Least Common Multiple",
+        "learning_target": "Find the least common multiple of two numbers.",
+        "success_criteria": [
+          "I can explain the meaning of multiples of a number.",
+          "I can use lists of multiples to identify the least common multiple of numbers.",
+          "I can use prime factors to identify the least common multiple of numbers."
+        ],
+        "vocabulary": [
+          "common multiples",
+          "least common multiple"
+        ],
+        "questions": 16
+      }
+    ]
+  },
+  {
+    "chapter_id": 2,
+    "chapter_desc": "Fractions and Decimals",
+    "learning_target": "Understand fractions and decimals.",
+    "success_criteria": [
+      "I can identify a fraction and a decimal.",
+      "I can add, subtract, multiply, and divide fractions and decimals.",
+      "I can evaluate expressions involving fractions and decimals using the order of operations.",
+      "I can solve a problem using fractions and decimals."
+    ],
+    "vocabulary": [
+      "reciprocals",
+      "multiplicative inverses"
+    ],
+    "sections": [
+      {
+        "section_desc": "Multiplying Fractions",
+        "learning_target": "Find products involving fractions and mixed numbers.",
+        "success_criteria": [
+          "I can draw a model to explain fraction multiplication.",
+          "I can multiply fractions.",
+          "I can fi nd products involving mixed numbers.",
+          "I can interpret products involving fractions and mixed numbers to solve real-life problems."
+        ],
+        "vocabulary": [],
+        "questions": 12
+      },
+      {
+        "section_desc": "Dividing Fractions ",
+        "learning_target": "Compute quotients of fractions and solve problems involving division by fractions.",
+        "success_criteria": [
+          "I can draw a model to explain division of fractions.",
+          "I can fi nd reciprocals of numbers.",
+          "I can divide fractions by fractions.",
+          "I can divide fractions and whole numbers."
+        ],
+        "vocabulary": [
+          "reciprocals",
+          "multiplicative inverses"
+        ],
+        "questions": 9
+      },
+      {
+        "section_desc": "Dividing Mixed Numbers ",
+        "learning_target": "Compute quotients with mixed numbers and solve problems involving division with mixed numbers.",
+        "success_criteria": [
+          "I can draw a model to explain division of mixed numbers.",
+          "I can write a mixed number as an improper fraction.",
+          "I can divide with mixed numbers.",
+          "I can evaluate expressions involving mixed numbers using the order of operations."
+        ],
+        "vocabulary": [],
+        "questions": 11
+      },
+      {
+        "section_desc": "Adding and Subtracting Decimals",
+        "learning_target": "Add and subtract decimals and solve problems involving addition and subtraction of decimals.",
+        "success_criteria": [
+          "I can explain why it is necessary to line up the decimal points when adding and subtracting decimals.",
+          "I can add decimals.",
+          "I can subtract decimals.",
+          "I can evaluate expressions involving addition and subtraction of decimals."
+        ],
+        "vocabulary": [],
+        "questions": 4
+      },
+      {
+        "section_desc": "Multiplying Decimals",
+        "learning_target": "Multiply decimals and solve problems involving multiplication of decimals.",
+        "success_criteria": [
+          "I can multiply decimals by whole numbers.",
+          "I can multiply decimals by decimals.",
+          "I can evaluate expressions involving multiplication of decimals."
+        ],
+        "vocabulary": [],
+        "questions": 5
+      }
+    ]
+  },
+  {
+    "chapter_id": 3,
+    "chapter_desc": "Ratios and Rates",
+    "learning_target": "Understand ratios.",
+    "success_criteria": [
+      "I can write and interpret ratios.",
+      " can name ratios equivalent to a given ratio.",
+      "I can solve a problem using ratios.",
+      "I can convert units of measure using ratio reasoning."
+    ],
+    "vocabulary": [
+      "ratio",
+      "rate",
+      "equivalent rates",
+      "equivalent ratios",
+      "unit rate"
+    ],
+    "sections": [
+      {
+        "section_desc": "Ratios",
+        "learning_target": "Understand the concepts of ratios and equivalent ratios.",
+        "success_criteria": [
+          "I can write and interpret ratios using appropriate notation and language.",
+          "I can recognize multiplicative relationships in ratios.",
+          "I can describe how to determine whether ratios are equivalent.",
+          "I can name ratios equivalent to a given ratio."
+        ],
+        "vocabulary": [
+          "ratio",
+          "value of a ratio",
+          "equivalent ratios"
+        ],
+        "questions": 12
+      },
+      {
+        "section_desc": "Dividing Fractions ",
+        "learning_target": "Compute quotients of fractions and solve problems involving division by fractions.",
+        "success_criteria": [
+          "I can draw a model to explain division of fractions.",
+          "I can fi nd reciprocals of numbers.",
+          "I can divide fractions by fractions.",
+          "I can divide fractions and whole numbers."
+        ],
+        "vocabulary": [
+          "reciprocals",
+          "multiplicative inverses"
+        ],
+        "questions": 9
+      },
+      {
+        "section_desc": "Dividing Mixed Numbers ",
+        "learning_target": "Compute quotients with mixed numbers and solve problems involving division with mixed numbers.",
+        "success_criteria": [
+          "I can draw a model to explain division of mixed numbers.",
+          "I can write a mixed number as an improper fraction.",
+          "I can divide with mixed numbers.",
+          "I can evaluate expressions involving mixed numbers using the order of operations."
+        ],
+        "vocabulary": [],
+        "questions": 11
+      },
+      {
+        "section_desc": "Adding and Subtracting Decimals",
+        "learning_target": "Add and subtract decimals and solve problems involving addition and subtraction of decimals.",
+        "success_criteria": [
+          "I can explain why it is necessary to line up the decimal points when adding and subtracting decimals.",
+          "I can add decimals.",
+          "I can subtract decimals.",
+          "I can evaluate expressions involving addition and subtraction of decimals."
+        ],
+        "vocabulary": [],
+        "questions": 4
+      },
+      {
+        "section_desc": "Multiplying Decimals",
+        "learning_target": "Multiply decimals and solve problems involving multiplication of decimals.",
+        "success_criteria": [
+          "I can multiply decimals by whole numbers.",
+          "I can multiply decimals by decimals.",
+          "I can evaluate expressions involving multiplication of decimals."
+        ],
+        "vocabulary": [],
+        "questions": 5
+      }
+    ]
+  }
+]

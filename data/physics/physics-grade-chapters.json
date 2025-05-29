@@ -1,0 +1,50 @@
+[
+  {
+    "id": "06",
+    "desc": "6th Grade",
+    "chapters": [
+      "Numerical Expressions and Factors",
+      "Fractions and Decimals",
+      "Rations and Rates",
+      "Percents",
+      "Algebraic Expressions and Properties",
+      "Equations",
+      "Area, Surface Area and Volume",
+      "Integers, Number Lines and the Coordinate Plane",
+      "Statistical Measures",
+      "Data Displays"
+    ]
+  },
+  {
+    "id": "06A",
+    "desc": "6th Grade Advanced",
+    "chapters": [
+      "Numerical Expressions and Factors",
+      "Fractions and Decimals",
+      "Rations and Rates",
+      "Percents",
+      "Algebraic Expressions and Properties",
+      "Equations",
+      "Area, Surface Area and Volume",
+      "Integers, Number Lines and the Coordinate Plane",
+      "Statistical Measures",
+      "Data Displays"
+    ]
+  },
+  {
+    "id": "07",
+    "desc": "6th Grade",
+    "chapters": [
+      "Numerical Expressions and Factors",
+      "Fractions and Decimals",
+      "Rations and Rates",
+      "Percents",
+      "Algebraic Expressions and Properties",
+      "Equations",
+      "Area, Surface Area and Volume",
+      "Integers, Number Lines and the Coordinate Plane",
+      "Statistical Measures",
+      "Data Displays"
+    ]
+  }
+]
