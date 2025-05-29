@@ -90,7 +90,7 @@ const onSubmit = (e) => {
     <div class="container">
       <p>{{ question }}</p>
       <menu class="images">
-        <img src="~/assets/maths/06/01/01/Tile.png" alt="Figurine 1"  height="150">
+        <img src="~/assets/maths/06/01/01/tile.png" alt="Figurine 1"  height="150">
       </menu>
       <ol type="A">
         <li>
