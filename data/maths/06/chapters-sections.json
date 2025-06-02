@@ -221,39 +221,19 @@
         "questions": 8
       },
       {
-        "section_desc": "Dividing Mixed Numbers ",
-        "learning_target": "Compute quotients with mixed numbers and solve problems involving division with mixed numbers.",
+        "section_desc": "Rates and Unit Rates",
+        "learning_target": "Understand the concept of a unit rate and solve rate problems.",
         "success_criteria": [
-          "I can draw a model to explain division of mixed numbers.",
-          "I can write a mixed number as an improper fraction.",
-          "I can divide with mixed numbers.",
-          "I can evaluate expressions involving mixed numbers using the order of operations."
+          "I can find unit rates.",
+          "I can use unit rates to solve rate problems.",
+          "I can use unit rates to compare rates."
         ],
-        "vocabulary": [],
-        "questions": 11
-      },
-      {
-        "section_desc": "Adding and Subtracting Decimals",
-        "learning_target": "Add and subtract decimals and solve problems involving addition and subtraction of decimals.",
-        "success_criteria": [
-          "I can explain why it is necessary to line up the decimal points when adding and subtracting decimals.",
-          "I can add decimals.",
-          "I can subtract decimals.",
-          "I can evaluate expressions involving addition and subtraction of decimals."
+        "vocabulary": [
+          "rate",
+          "unit rate",
+          "equivalent rates"
         ],
-        "vocabulary": [],
-        "questions": 4
-      },
-      {
-        "section_desc": "Multiplying Decimals",
-        "learning_target": "Multiply decimals and solve problems involving multiplication of decimals.",
-        "success_criteria": [
-          "I can multiply decimals by whole numbers.",
-          "I can multiply decimals by decimals.",
-          "I can evaluate expressions involving multiplication of decimals."
-        ],
-        "vocabulary": [],
-        "questions": 5
+        "questions": 6
       }
     ]
   }
