@@ -21,7 +21,7 @@ const qstnDetails = {
   <BaseMCQ :qstn-details="qstnDetails">
     <template #bgimages>
       <menu class="figurines">
-        <img src="~/assets/maths/06/03/01/you-be-teacher-1.png" alt="you be the teacher 1" height="300">
+        <img src="~/assets/maths/06/03/01/you-be-teacher-1.png" alt="you be the teacher 1" height="200">
       </menu>
     </template>
   </BaseMCQ>
