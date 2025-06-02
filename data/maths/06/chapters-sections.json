@@ -182,15 +182,15 @@
     "learning_target": "Understand ratios.",
     "success_criteria": [
       "I can write and interpret ratios.",
-      " can name ratios equivalent to a given ratio.",
+      "I can name ratios equivalent to a given ratio.",
       "I can solve a problem using ratios.",
       "I can convert units of measure using ratio reasoning."
     ],
     "vocabulary": [
       "ratio",
       "rate",
-      "equivalent rates",
       "equivalent ratios",
+      "equivalent rates",
       "unit rate"
     ],
     "sections": [
@@ -208,22 +208,17 @@
           "value of a ratio",
           "equivalent ratios"
         ],
-        "questions": 12
+        "questions": 18
       },
       {
-        "section_desc": "Dividing Fractions ",
-        "learning_target": "Compute quotients of fractions and solve problems involving division by fractions.",
+        "section_desc": "Equivalent Ratios",
+        "learning_target": "Solve ratio probelms with equivalent ratios.",
         "success_criteria": [
-          "I can draw a model to explain division of fractions.",
-          "I can fi nd reciprocals of numbers.",
-          "I can divide fractions by fractions.",
-          "I can divide fractions and whole numbers."
+          "I can use ratio tables to solve ratio problems.",
+          "I can use ratio tables to compare ratios."
         ],
-        "vocabulary": [
-          "reciprocals",
-          "multiplicative inverses"
-        ],
-        "questions": 9
+        "vocabulary": [],
+        "questions": 8
       },
       {
         "section_desc": "Dividing Mixed Numbers ",

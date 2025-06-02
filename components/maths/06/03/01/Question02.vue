@@ -4,10 +4,10 @@ const qstnDetails = {
   question: {
     "content-type": "html",
     content: `Determine whether the ratios are equivalent.
-    <br><mark>2 : 3 and 24 : 36</mark>`,
+    <br><mark>3 : 10 and 9 : 25</mark>`,
   },
   isSolutionSingle: true,
-  solution: [0],
+  solution: [1],
   userChoices: {
     "content-type": "html",
     displayedChoices: [
