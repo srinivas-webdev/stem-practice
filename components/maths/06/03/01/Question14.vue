@@ -3,16 +3,18 @@ const qstnDetails = {
   questionType: "Problem Solving",
   question: {
     "content-type": "html",
-    content: `A restaurant sells tokens that customers use to play games
-    while waiting for their orders.
-    <br><mark>Which option is the best deal?</mark>`,
+    content: `You separate bulbs of garlic into
+    two groups: one for planting and one for cooking. The tape
+    diagram represents the ratio of bulbs for planting to bulbs for
+    cooking. You use 6 bulbs for cooking. Each bulb has 8 cloves.
+    <br><mark>How many cloves of garlic will you plant?</mark>`,
   },
   isSolutionSingle: true,
-  solution: [2],
+  solution: [3],
   userChoices: {
     "content-type": "normal",
     displayedChoices: [
-      "1 Token", "10 Tokens", "25 Tokens", "50 Tokens", "90 Tokens"
+      "48", "96", "144", "288"
     ],
   }
 }
@@ -22,7 +24,8 @@ const qstnDetails = {
   <BaseMCQ :qstn-details="qstnDetails">
     <template #bgimages>
       <menu class="figurines">
-        <img src="~/assets/maths/06/03/01/tokens.png" alt="Train" height="200">
+        <img src="~/assets/maths/06/03/01/garlic.png" alt="garlic cloves" height="200">
+        <img src="~/assets/maths/06/03/01/garlic-tape-diagram.png" alt="garlic tape diagram" height="100">
       </menu>
     </template>
   </BaseMCQ>
@@ -37,9 +40,9 @@ const qstnDetails = {
   margin: 0;
 
   img {
-    object-fit: cover;
+    object-fit: scale-down;
     max-width: 100%;
-    align-self: end;
+    align-self: center;
     mix-blend-mode: multiply;
   }
 }

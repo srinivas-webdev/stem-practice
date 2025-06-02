@@ -1,19 +1,19 @@
 <script setup>
 const qstnDetails = {
-  questionType: "Problem Solving",
+  questionType: "Dig Deeper",
   question: {
     "content-type": "html",
-    content: `You have $150 in a savings account and you have some
-    cash. The tape diagram represents the ratio of the amounts of money. You want
-    to have twice the amount of money in your savings account as you have in cash.
-    <br><mark>How much of your cash should you deposit into your savings account?</mark>`,
+    content: `A fish tank contains tetras, guppies,
+    and minnows. The ratio of tetras to guppies is 4 : 2.
+    The ratio of minnows to guppies is 1 : 3. There are 60 fish in the tank.
+    <br><mark>How many more tetras are there than minnows?</mark>`,
   },
   isSolutionSingle: true,
-  solution: [1],
+  solution: [3],
   userChoices: {
     "content-type": "normal",
     displayedChoices: [
-      "150", "200", "250", "300"
+      "12", "18", "24", "30"
     ],
   }
 }
@@ -23,7 +23,7 @@ const qstnDetails = {
   <BaseMCQ :qstn-details="qstnDetails">
     <template #bgimages>
       <menu class="figurines">
-        <img src="~/assets/maths/06/03/01/account-tape-diagram.png" alt="account tape diagram" height="100">
+        <img src="~/assets/maths/06/03/01/fish-tank.png" alt="fish tank" height="200">
       </menu>
     </template>
   </BaseMCQ>

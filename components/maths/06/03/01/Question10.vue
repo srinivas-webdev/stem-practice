@@ -22,7 +22,7 @@ const qstnDetails = {
   <BaseMCQ :qstn-details="qstnDetails">
     <template #bgimages>
       <menu class="figurines">
-        <img src="~/assets/maths/06/03/01/tokens.png" alt="Train" height="200">
+        <img src="~/assets/maths/06/03/01/tokens.png" alt="Train">
       </menu>
     </template>
   </BaseMCQ>
@@ -37,7 +37,7 @@ const qstnDetails = {
   margin: 0;
 
   img {
-    object-fit: cover;
+    object-fit: scale-down;
     max-width: 100%;
     align-self: end;
     mix-blend-mode: multiply;
