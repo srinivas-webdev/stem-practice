@@ -37,7 +37,7 @@ const qstnDetails = {
   margin: 0;
 
   img {
-    object-fit: scale-down;
+    object-fit: cover;
     max-width: 100%;
     align-self: end;
     mix-blend-mode: multiply;

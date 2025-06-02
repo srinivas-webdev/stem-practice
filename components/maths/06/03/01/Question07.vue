@@ -32,12 +32,14 @@ const qstnDetails = {
 <style scoped>
 .figurines {
   display: flex;
+  flex-wrap: wrap;
   max-width: 100%;
   padding: 0;
   margin: 0;
 
   img {
-    object-fit: scale-down;
+    object-fit: cover;
+    max-width: 100%;
     align-self: end;
     mix-blend-mode: multiply;
   }
